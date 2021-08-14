@@ -57,4 +57,4 @@ client.on('message', message => {
 
 
 
-client.login('NzkzNzY2NjA0NDE1OTU5MDQx.X-xCwQ.wGlxYMVsGSuWODxhh2YNnbw1Dwg');
+client.login('${{BOT_TOKEN}}');
